@@ -1,1 +1,0 @@
-# Atlan-frontend-SQL-editor
