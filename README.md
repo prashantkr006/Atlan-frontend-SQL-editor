@@ -5,12 +5,7 @@ This is a REACT SQL Editor built using ReactJs and TailwindCSS.
 ![Homepage](src/assets/screenshots/screenshot-readme.png)
 
 ## 👨‍💻 Demo
-
-<a href="https://github.com/rishipurwar1/coding-space" target="blank">
-<img src="https://img.shields.io/website?url=https://www.codingspace.codes&logo=github&style=flat-square" />
-</a>
-
-Try out the website : [REACT SQL Editor](https://react-sql-editor-view.vercel.app/)
+Try out the website : [REACT SQL Editor](https://atlan-frontend-task.netlify.app/)
 
 ## 👨‍🔧 Tech Stack
 
